@@ -1,4 +1,4 @@
-[![MasterHead](https://paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg)
+![MasterHead](https://paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg)
 <h1 align="center">Hi 👋, I'm Diemas Ariasena</h1>
 <h3 align="center">A passionate data analyst from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
